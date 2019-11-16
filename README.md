@@ -6,3 +6,13 @@ File league.csv has a list of all premier league match results from the 1800s to
 
 pleague.py contains the code I have written, mostly using libraries such as numpy, pandas and matplotlib to manipulate data in league.csv, pick certain fields and plot various types of graphs to provide insights into scoring records,
 games won, drawn or lost per season and home vs away statistics.
+
+
+Have included graph images for viewing:
+1) 1.png - Goals scored vs conceded for all 3 seasons and games won, lost or drawn at home during those seasons.
+
+2) 2.png - Goals scored vs conceded for all 3 seasons and games won, lost or drawn away from home during those seasons.
+
+3) 3.png - Goal scoring record for all 3 seasons at home vs away during those seasons.
+
+4) 4.png - Goal scoring record for all 3 seasons at home vs away against top 6 oppositions (Arsenal, Chelsea, Liverpool, Manchester City, Tottenham Hotspur) during those seasons.
