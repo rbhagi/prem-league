@@ -4,9 +4,9 @@ to provide insights into the situation and statistical differences and how manch
 
 File league.csv has a list of all premier league match results from the 1800s to the 2018/19 season with names of oppositions, home team goals, away team goals and goal difference, final result, etc
 
-pleague.py contains the code I have written, mostly using libraries such as numpy, pandas and matplotlib to manipulate data in league.csv, pick certain fields and plot various types of graphs to provide insights into scoring records,
-games won, drawn or lost per season and home vs away statistics.
+pleague.py contains the code I have written using libraries such as numpy, pandas and matplotlib to manipulate data in league.csv, filter/transform certain fields and plot various types of graphs to provide insights into scoring records, games won, drawn or lost per season and home vs away statistics.
 
+IMPORTANT: Since I am a data visualization enthusiast, I hope you would be able to realize that these statistics provide more insight than just goals scored or games won, a deeper insight into the areas where the team is weak and requires reinforcements!
 
 Have included graph images for viewing:
 1) 1.png - Goals scored vs conceded for all 3 seasons and games won, lost or drawn at home during those seasons.
